@@ -15,11 +15,11 @@ tags:
   - Innenministerium
 ---
 
-Die nordrhein-westfälische Regierung ließ 2018 den Hambacher Forst für den Braunkohleabbau räumen. [Wir veröffentlichen erstmals Dokumente zu Absprachen](https://fragdenstaat.de/anfrage/kommunikation-mitzu-rwe-power-ag-zwischen-02072018-und-03092018-3/) zwischen Innenministerium und RWE. Sie zeigen: Das Ministerium wollte Bilder und GPS-Daten von Baumhäusern an RWE weitergeben. Das Unternehmen sollte mit den Informationen privatrechtlich gegen die Baumhäuser vorgehen.
+Die nordrhein-westfälische Regierung ließ 2018 den Hambacher Forst für den Braunkohleabbau räumen. Wir veröffentlichen erstmals Dokumente zu Absprachen zwischen Innenministerium und RWE. Sie zeigen: Das Ministerium wollte Bilder und GPS-Daten von Baumhäusern an RWE weitergeben. Das Unternehmen sollte mit den Informationen privatrechtlich gegen die Baumhäuser vorgehen.
 
 <!--more-->
 
-Die Räumung des Hambacher Forst im Sommer 2018 ist heute ein Fall für die Akten. Wir veröffentlichen erstmals Unterlagen zu Absprachen zwischen dem Innenministerium und RWE. Aus diesen geht hervor, dass das Ministerium RWE anbot, Bilder und GPS-Standorte der Baumhäuser weiterzugeben. RWE sollte damit privatrechtliche Räumungsanträge gegen die Baumhäuser stellen. Die Daten der Polizei Aachen erlaubten die exakte Bestimmung der Baumhäuser. Diese sei notwendig für „schlüssige“ und damit rechtssichere Räumungsanträge. Zuvor argumentierte RWE, dass sie selbst nicht die nötigen Informationen erlangen könnten.
+Die Räumung des Hambacher Forst im Sommer 2018 ist heute ein Fall für die Akten. Wir veröffentlichen erstmals [Unterlagen zu Absprachen](https://fragdenstaat.de/anfrage/kommunikation-mitzu-rwe-power-ag-zwischen-02072018-und-03092018-3/) zwischen dem Innenministerium und RWE. Aus diesen geht hervor, dass das Ministerium RWE anbot, Bilder und GPS-Standorte der Baumhäuser weiterzugeben. RWE sollte damit privatrechtliche Räumungsanträge gegen die Baumhäuser stellen. Die Daten der Polizei Aachen erlaubten die exakte Bestimmung der Baumhäuser. Diese sei notwendig für „schlüssige“ und damit rechtssichere Räumungsanträge. Zuvor argumentierte RWE, dass sie selbst nicht die nötigen Informationen erlangen könnten.
 
 ### Das Innenministerium stellt Polizeidaten zur Verfügung
 
