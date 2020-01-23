@@ -1,7 +1,6 @@
 ---
 title: "Was mit dem Präsentkorb von Feine Sahne Fischfilet an den Verfassungsschutz geschah"
 thumbnailImagePosition: left
-# thumbnailImage: images/blog/vw_hanefeld.jpg
 coverImage: images/blog/feine_sahne_notiz_cover.jpg
 metaAlignment: center
 coverMeta: out
@@ -21,9 +20,7 @@ Der Verfassungsschutz Mecklenburg-Vorpommern gehört zu den ersten Unterstützer
 
 ### Übergabe des Präsentskorbs im Video
 
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/f-Ho2B9OjoI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{< youtube f-Ho2B9OjoI >}}
 
 Sechs Jahre und zwei IFG-Anfragen später wissen wir auch, was mit dem Korb danach passiert ist. Er hat leider den Verfassungsschutz nie erreicht und wurde zwei Tage nach der Übergabe an die Tafel Schwerin gespendet.
 

@@ -1,7 +1,6 @@
 ---
 title: "„Unser Kollege Jens Hanefeld“: Das vertraute Verhältnis vom Auswärtigem Amt und VW"
 thumbnailImagePosition: left
-# thumbnailImage: images/blog/vw_hanefeld.jpg
 coverImage: images/blog/vw_hanefeld.jpg
 metaAlignment: center
 coverMeta: out

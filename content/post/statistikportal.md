@@ -1,7 +1,6 @@
 ---
 title: "Relaunch Statistikportal: 100 Seiten Lastenheft und dennoch keine stabile Links"
 thumbnailImagePosition: left
-# thumbnailImage: images/blog/vw_hanefeld.jpg
 coverImage: images/blog/statistikportal_cover.jpg
 metaAlignment: center
 coverMeta: out
