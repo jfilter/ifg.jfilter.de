@@ -33,6 +33,6 @@ Links:
 
 - [Anfrage](https://fragdenstaat.de/anfrage/rwe-antrag-zum-abpumpen-des-grundwasser-im-tagebau-hambach/)
 - [Dokument: RWE-Erläuterungsbericht](https://fragdenstaat.de/dokumente/953/)
-- [Download aller Dokumente als ZIP-Datei (570 MB)](https://data.jfilter.de/Antragsunterlagen_RWE_Suempfung.zip)
+- [Download aller Dokumente als ZIP-Datei (570 MB)](https://data.jfilter.de/ifg/2019/Antragsunterlagen_RWE_Suempfung.zip)
 
 _Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/08/01/rwe-grundwasser-tagebau-hambach-abpumpen/)._

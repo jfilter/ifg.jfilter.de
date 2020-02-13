@@ -47,6 +47,6 @@ Links:
 - [zur Anfrage](https://fragdenstaat.de/anfrage/videofilm-demokratie-schutzen-verfassungsschutz/)
 - [auf YouTube ansehen](https://www.youtube.com/watch?v=E4HDfq1jJGk)
 - [auf Vimeo ansehen](https://vimeo.com/362670172/)
-- [als MP4 downloaden](https://data.jfilter.de/vs_imagefilm_1999.mp4)
+- [als MP4 downloaden](https://data.jfilter.de/ifg/2019/vs_imagefilm_1999.mp4)
 
 _Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/09/30/verfassungsschutz-imagefilm/)._
