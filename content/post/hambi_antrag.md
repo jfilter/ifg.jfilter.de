@@ -5,7 +5,7 @@ coverImage: images/blog/hambi_antrag_cover.jpg
 metaAlignment: center
 coverMeta: out
 coverSize: partial
-coverCaption: " Die Räumung des Hambacher Forsts im September 2018 – [Aktion Unterholz](https://www.flickr.com/photos/aktion_unterholz/), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)"
+coverCaption: "Die Räumung des Hambacher Forsts im September 2018 – [Aktion Unterholz](https://www.flickr.com/photos/aktion_unterholz/), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)"
 date: 2019-07-22
 tags:
   - Hambacher Forst

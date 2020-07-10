@@ -33,7 +33,7 @@ canonifyurls = true
 
 [author]
   name = "Johannes Filter"
-  bio = "Johannes Filter ist Aktivist für Informationsfreiheit und investigativer Journalist. Er hat sich auf Recherche mithilfe des Informationsfreiheitsgesetzes (IFG) spezialisiert. Daneben arbeitet er als freiberuflicher Software-Entwickler und Datenanalyst.<br><br>[Twitter](https://twitter.com/fil_ter)<br><br>[Homepage](https://johannesfilter.com)<br><br>[Impressum](https://johannesfilter.com/impressum/)"
+  bio = "Johannes Filter ist Aktivist für Informationsfreiheit und investigativer (Bürger-)Journalist. Er hat sich auf Recherche mithilfe des Informationsfreiheitsgesetzes (IFG) spezialisiert. Daneben arbeitet er als freiberuflicher Software-Entwickler und Datenanalyst.<br><br>[Twitter](https://twitter.com/fil_ter)<br><br>[Homepage](https://johannesfilter.com)<br><br>[Impressum](https://johannesfilter.com/impressum/)"
   # job = "Your job title"
   # location = "Berlin"
   # # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -219,3 +219,11 @@ canonifyurls = true
     src = "/js/matomo.js"
 
   # [[params.customCSS]]
+
+
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
