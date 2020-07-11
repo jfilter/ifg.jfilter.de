@@ -119,7 +119,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Hugo tranquilpeak theme demo"
+  description = "Johannes Filter ist Aktivist für Informationsfreiheit und investigativer (Bürger-)Journalist. Er hat sich auf Recherche mithilfe des Informationsfreiheitsgesetzes (IFG) spezialisiert."
 
   # Customization
   # Define the behavior of the sidebar
