@@ -60,4 +60,4 @@ Links:
 - [E-Mail-Wechsel zwischen Kai Wegner und Marco Wanderwitz](https://fragdenstaat.de/dokumente/3298-beauftragung-verfassungsrechtliche-bewertung-mietendeckel/)
 
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2020/02/18/mietendeckel-berlin-gutachten/)._
+_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2020/02/18/mietendeckel-berlin-gutachten/) und wurde vom [Tagesspiegel](https://www.tagesspiegel.de/berlin/gutachten-zum-mietendeckel-kai-wegner-bat-parteifreund-um-einschaetzung-zum-mietengesetz/25563262.html) und [Neues Deutschland](https://www.neues-deutschland.de/artikel/1133130.cdu-aufregung-um-mietendeckel-korrespondenz.html) aufgegriffen._
