@@ -40,4 +40,4 @@ Links:
 - [Anfrage](https://fragdenstaat.de/anfrage/unterlagen-zum-raumungsersuchen-von-rwe-im-hambacher-forst-1/)
 - [Dokument: Räumungsantrag von RWE](https://fragdenstaat.de/dokumente/632-rwe-raumungsantrag-fur-den-hambacher-forst/)
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/07/22/rwe-raeumungsantrag-hambacher-forst-2-juli-2018/)._
+_Der Beitrag erschien zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/07/22/rwe-raeumungsantrag-hambacher-forst-2-juli-2018/)._

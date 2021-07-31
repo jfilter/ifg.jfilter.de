@@ -33,4 +33,4 @@ Links:
 - [Anfrage](https://fragdenstaat.de/anfrage/pflichtenheft-zum-relaunch-von-statistikportalde/)
 - [Dokumente](https://fragdenstaat.de/anfrage/pflichtenheft-zum-relaunch-von-statistikportalde/#nachricht-110551)
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/03/17/relaunch-statistikportalde-kaputte-links/)._
+_Der Beitrag erschien zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/03/17/relaunch-statistikportalde-kaputte-links/)._

@@ -35,4 +35,4 @@ Links:
 - [Dokument: RWE-Erläuterungsbericht](https://fragdenstaat.de/dokumente/953/)
 - [Download aller Dokumente als ZIP-Datei (570 MB)](https://data.jfilter.de/ifg/2019/Antragsunterlagen_RWE_Suempfung.zip)
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/08/01/rwe-grundwasser-tagebau-hambach-abpumpen/)._
+_Der Beitrag erschien zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/08/01/rwe-grundwasser-tagebau-hambach-abpumpen/)._

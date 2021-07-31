@@ -88,4 +88,4 @@ Links:
 - [Akte 3](https://fragdenstaat.de/dokumente/2352-kanzleramt-kali-akte-3-b136-48271/)
 - MDR-Dokumentation [„Bischofferode: Das Treuhand-Trauma“](https://www.youtube.com/watch?v=NYr5rOkT9Nw)
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/10/23/kanzleramt-kali-salz/)._
+_Der Beitrag erschien zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/10/23/kanzleramt-kali-salz/)._

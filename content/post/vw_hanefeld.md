@@ -25,4 +25,4 @@ Links:
 - [Anfrage](https://fragdenstaat.de/anfrage/lobbyismus-jens-hanfeld-e-mails/)
 - [Dokument](https://fragdenstaat.de/anfrage/lobbyismus-jens-hanfeld-e-mails/100874/anhang/lobbyist-jens-hanefeld_geschwaerzt.pdf)
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2018/09/18/VW-Lobbyist-Jens-Hanefeld/)._
+_Der Beitrag erschien zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2018/09/18/VW-Lobbyist-Jens-Hanefeld/)._

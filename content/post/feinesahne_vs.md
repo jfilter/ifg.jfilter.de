@@ -39,4 +39,4 @@ Links:
 - [Anfrage](https://fragdenstaat.de/anfrage/unterlagen-zum-prasentkorb-von-feine-sahne-fischfilet-1/)
 - [Dokument](https://fragdenstaat.de/dokumente/47)
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2018/10/09/feine-sahne-fischfilet-praesentkorb-verfassungsschutz-mecklenburg-vorpommern/)._
+_Der Beitrag erschien zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2018/10/09/feine-sahne-fischfilet-praesentkorb-verfassungsschutz-mecklenburg-vorpommern/)._

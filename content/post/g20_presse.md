@@ -29,15 +29,13 @@ Eigentlich sollte das Bundeskriminalamt während des Gipfels die Journalist:inne
 
 ![](/images/blog/g20_auszug.png)
 
-
 Als das BKA davon erfuhr, empfahl es dem BPA, die Akkreditierungen zurückzunehmen. Das Amt befolgte diesen Rat. Zusätzlich verloren zwei weitere Journalisten aufgrund eines nicht definierten „Bürofehlers“ die Akkreditierung. Schließlich lagen für eine Person Informationen des BfV vor, nach denen es sich bei ihr um einen „Linksextremisten“ und Rädelsführer handeln sollte. Die damalige Staatssekretärin im Innenministerium und jetzige deutsche Botschafterin in den USA, Emily Haber, intervenierte persönlich beim Chef des Bundespresseamts Steffen Seibert, um die Akkreditierung rückgängig zu machen.
 
 Drei Jahre nach dem G20-Gipfel wird der Entzug der Akkreditierung von neun Journalisten vor Gericht geklärt. In zwei Fällen bekamen die Pressevertreter:innen bereits Recht. Laut Schriftsätzen aus dem Klageverfahren hatte das BPA Befürchtungen, dass die Personen Schuhe auf Staatsgäste werfen könnte. Eine Begründung für diese Einschätzung lieferte es nicht. Das Verwaltungsgericht folgte den Ausführungen nicht.
-
 
 Links:
 
 - [Anfrage](https://fragdenstaat.de/anfrage/umgang-mit-journalisteninnen-g20-hamburg-2017-1/)
 - [Dokument](https://fragdenstaat.de/dokumente/4253/)
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2020/05/12/g20-journalisten-presseausweis-akkreditierung/)._
+_Der Beitrag erschien zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2020/05/12/g20-journalisten-presseausweis-akkreditierung/)._

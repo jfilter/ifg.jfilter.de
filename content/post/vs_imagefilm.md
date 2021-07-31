@@ -49,4 +49,4 @@ Links:
 - [auf Vimeo ansehen](https://vimeo.com/362670172/)
 - [als MP4 downloaden](https://data.jfilter.de/ifg/2019/vs_imagefilm_1999.mp4)
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/09/30/verfassungsschutz-imagefilm/)._
+_Der Beitrag erschien zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/09/30/verfassungsschutz-imagefilm/)._

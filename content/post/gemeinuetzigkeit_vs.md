@@ -26,7 +26,7 @@ Der VVN-BdA fiel dieser neuen Regelung zum Opfer. Angedacht war sie schon lange:
 
 Allerdings traf dieses Vorhaben nach der Aufdeckung des NSU-Skandals nicht nur in der Bevölkerung auf Skepsis. Auch Beamte des Finanzministeriums hatten Zweifel, dass der Geheimdienst eine verlässliche Quelle ist. Dies zeigen interne Dokumente, die wir nach einer Anfrage nach dem Informationsfreiheitsgesetz veröffentlichen. Zentraler Kritikpunkt im Ministerium damals: Es sei aus den Berichten des Geheimdienstes schwer festzustellen, wann eine Gruppe als „extremistisch“ einzustufen sei. Wertungen und Tatsachen seien nicht zu unterscheiden. Eine Erwähnung in einem Verfassungsschutzbericht reiche daher nicht als Grundlage für eine Entscheidung über Gemeinnützigkeit aus. Zudem umfassten die jährlichen Berichte mehrere hunderte Seiten und seien schwer zu überblicken.
 
-### Ein Ministerialrat des Finanzministeriums zweifelt an der Aussagekraft der Verfassungsschutzberichte 
+### Ein Ministerialrat des Finanzministeriums zweifelt an der Aussagekraft der Verfassungsschutzberichte
 
 ![](/images/blog/vs_gemein_1.png)
 
@@ -34,7 +34,7 @@ Der Vorstoß über das Jahressteuergesetz wurde daraufhin erst einmal gestoppt. 
 
 Das sogenannte Bundesamt für Verfassungsschutz führt solche Listen in seinen Berichten schon länger – die 16 Landesämter begannen nach der Bitte des Bundestags und nach Koordination einer Arbeitsgruppe der Innenministerkonferenz im Jahr 2014 auch damit. Sie stellten im Anhang ihrer jährlichen Berichte Register mit Organisationen bereit, die sie für „extremistisch“ und damit verfassungsfeindlich halten. In Bayern enthielt das Register regelmäßig auch den VVN-BdA.
 
-###  Der Finanzausschuss wünscht sich eine Auflistung von „extremistischen Köperschaften“ 
+### Der Finanzausschuss wünscht sich eine Auflistung von „extremistischen Köperschaften“
 
 ![](/images/blog/vs_gemein_2.png)
 
@@ -58,4 +58,4 @@ Links:
 - [Dokumente zur Anfrage](https://fragdenstaat.de/anfrage/jahressteuergesetz-verfassungsschutz-gemeinnutzigkeit-2012/#nachricht-476048)
 - [zur vollständigen Analyse über die Register von Verfassungsschutzberichte.de](https://blog.vsberichte.de/urteil-im-anhang/)
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2020/05/05/verfassungsschutz-gemeinnuetzigkeit-vereine/)._
+_Der Beitrag erschien zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2020/05/05/verfassungsschutz-gemeinnuetzigkeit-vereine/)._

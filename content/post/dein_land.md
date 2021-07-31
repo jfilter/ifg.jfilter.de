@@ -71,4 +71,4 @@ Links:
 - [Anfrage](https://fragdenstaat.de/anfrage/konzept-plakataktion-dein-land-deine-zukunft/)
 - [Konzept](https://fragdenstaat.de/dokumente/2731-konzept-dein-land-deine-zukunft-jetzt/)
 
-_Der Beitrag erschient zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/11/11/dein-land-deine-zukunft-jetzt-interne-dokumente-zielgruppe/) und im [MiGAZIN](https://www.migazin.de/2019/11/22/abschiebekampagne-zielte-nicht-nur-auf-asylbewerber/)._
+_Der Beitrag erschien zuerst im [Blog von FragDenStaat](https://fragdenstaat.de/blog/2019/11/11/dein-land-deine-zukunft-jetzt-interne-dokumente-zielgruppe/) und im [MiGAZIN](https://www.migazin.de/2019/11/22/abschiebekampagne-zielte-nicht-nur-auf-asylbewerber/)._
